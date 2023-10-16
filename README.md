@@ -7,6 +7,8 @@ This is a ROS 2 package responsible for communication between robots in the Robo
 In the kid-size game, there are four robots playing soccer on the field, with two replacement robots waiting off the field.
 A computer with a wired connection is used by the team members to monitor the robots.
 
+![schematic drawing](/doc/overview.svg)
+
 The referee ([GameController](https://github.com/RoboCup-Humanoid-TC/GameController)) sends messages using UDP.
 All robots and a monitoring computer can receive the packets.
 The `gc_receiver` node of this package translates the packet into the ROS 2 msg defined in [communication_interfaces](https://github.com/team-re-boot/communication_interfaces) and publishes it to the `/game_controller_receiver/gc_data` topic.
