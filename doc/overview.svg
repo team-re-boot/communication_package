@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="6.8175111"
-     inkscape:cx="87.568614"
-     inkscape:cy="112.28438"
+     inkscape:cx="58.012373"
+     inkscape:cy="111.99102"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="1609"
@@ -47,17 +47,17 @@
      id="layer1">
     <rect
        style="fill:#ffffff;stroke-width:0.3"
-       id="rect321"
-       width="71.014084"
-       height="51"
-       x="-0.50704157"
-       y="-0.5" />
+       id="rect1218"
+       width="69.282036"
+       height="49"
+       x="0.35898384"
+       y="0" />
     <path
        style="fill:#77d9a9;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
        d="M 4.6891107,47.5 H 39.330126 L 47.99038,32.500001 H 13.349365 Z"
        id="path792" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
        d="m 26.731517,15 v 3 h 5.196152 v -3 h -5.196152"
        id="path1114"
        sodipodi:nodetypes="ccccc" />
@@ -72,44 +72,40 @@
          style="fill:#000000;stroke:none;stroke-width:0.3"
          x="27.566193"
          y="17.295408">AP</tspan></text>
-    <g
-       id="g9809"
-       transform="translate(-3.4641016)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
-         d="M 4.6891109,2.5 H 25.473721 v 5 H 4.6891109 Z"
-         id="path794"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
-         d="m 30.669873,2.5 h 6.928203 v 5 h -6.928203 z"
-         id="path794-4"
-         sodipodi:nodetypes="ccccc" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none"
-         x="5.4164715"
-         y="5.9626207"
-         id="text850"><tspan
-           sodipodi:role="line"
-           id="tspan1014"
-           x="5.4164715"
-           y="5.9626207">GameController</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none"
-         x="31.397234"
-         y="5.9626207"
-         id="text850-0"><tspan
-           sodipodi:role="line"
-           id="tspan1014-9"
-           x="31.397234"
-           y="5.9626207">Hub</tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
-         d="m 25.47372,5.5 h 5.196153"
-         id="path1250" />
-    </g>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       d="M 1.2250093,2.5 H 22.009619 v 5 H 1.2250093 Z"
+       id="path794"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       d="m 27.205771,2.5 h 6.928203 v 5 h -6.928203 z"
+       id="path794-4"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+       x="1.9523699"
+       y="5.9626207"
+       id="text850"><tspan
+         sodipodi:role="line"
+         id="tspan1014"
+         x="1.9523699"
+         y="5.9626207">GameController</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+       x="27.933132"
+       y="5.9626207"
+       id="text850-0"><tspan
+         sodipodi:role="line"
+         id="tspan1014-9"
+         x="27.933132"
+         y="5.9626207">Hub</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       d="m 22.009618,5.5 h 5.196153"
+       id="path1250" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
        d="M 32.401924,7.5 31.535898,15"
@@ -350,47 +346,49 @@
        d="m 29.803848,18 24.248711,8"
        id="path6793"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g8667">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 1.2250092,17.5 v 7 H 20.277568 v -7 H 1.2250092"
+       id="path8658"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
+       x="1.9608103"
+       y="19.489954"
+       id="text8648"><tspan
+         sodipodi:role="line"
+         id="tspan8646"
+         style="fill:#000000;stroke:none;stroke-width:0.3"
          x="1.9608103"
-         y="19.489954"
-         id="text8648"><tspan
-           sodipodi:role="line"
-           id="tspan8646"
-           style="fill:#000000;stroke:none;stroke-width:0.3"
-           x="1.9608103"
-           y="19.489954">gc_receiver</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
+         y="19.489954">gc_receiver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
+       x="1.9608103"
+       y="21.489954"
+       id="text8652"><tspan
+         sodipodi:role="line"
+         id="tspan8650"
+         style="stroke-width:0.3"
          x="1.9608103"
-         y="21.489954"
-         id="text8652"><tspan
-           sodipodi:role="line"
-           id="tspan8650"
-           style="stroke-width:0.3"
-           x="1.9608103"
-           y="21.489954">com_receiver</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
+         y="21.489954">com_receiver</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 48.856406,43 0,5 19.052559,0 v -5 l -19.052559,0"
+       id="path8658-1"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
+       x="1.9608103"
+       y="23.489952"
+       id="text8656"><tspan
+         sodipodi:role="line"
+         id="tspan8654"
+         style="stroke-width:0.3"
          x="1.9608103"
-         y="23.489952"
-         id="text8656"><tspan
-           sodipodi:role="line"
-           id="tspan8654"
-           style="stroke-width:0.3"
-           x="1.9608103"
-           y="23.489952">com_sender</tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
-         d="m 1.2250092,17.5 v 7 l 19.0525588,0 v -7 l -19.0525588,0"
-         id="path8658"
-         sodipodi:nodetypes="ccccc" />
-    </g>
+         y="23.489952">com_sender</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
@@ -413,6 +411,11 @@
          style="fill:#000000;stroke-width:0.3"
          x="49.722431"
          y="47.5">com_receiver</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 50.588457,7 v 7 l 19.052559,0 V 7 L 50.588457,7"
+       id="path8658-7"
+       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
@@ -424,11 +427,6 @@
          style="fill:#000000;stroke-width:0.3"
          x="51.454483"
          y="11.5">com_receiver</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 48.856406,43 0,5 19.052559,0 v -5 l -19.052559,0"
-       id="path8658-1"
-       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:1.8, 0.3;stroke-dashoffset:0"
@@ -440,11 +438,6 @@
          style="fill:#000000;stroke:none;stroke-width:0.3"
          x="51.454483"
          y="9.5">gc_receiver</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 50.588457,7 v 7 l 19.052559,0 V 7 L 50.588457,7"
-       id="path8658-7"
-       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
